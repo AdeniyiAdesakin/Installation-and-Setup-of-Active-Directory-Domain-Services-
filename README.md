@@ -9,7 +9,7 @@
 <p>3. On the Installation Type screen, make sure the Role-based or feature-based installation is selected, then click <b>NEXT</b>.</p>
 <p align="center"><img src="https://i.imgur.com/ZvY3YRt.png" height="50%" width="50%"/>
 
-<p>4. On the Select destination server screen, make sure the select a server from the server pool is selected and select the server you are trying to install Adds from the server pool, then click <b>NEXT</b>.</p>
+<p>4. On the Select destination server screen, make sure the select a server from the server pool is selected and select the server you are trying to install Adds on from the server pool, then click <b>NEXT</b>.</p>
 <p align="center"><img src="https://i.imgur.com/Xq8ggfi.png" height="50%" width="50%"/>
 
 <p>5. On the select server roles screen, select the second option(Active Directory Domain Services) and click on add features from the pop-up screen, then click <b>NEXT</b>.</p>
